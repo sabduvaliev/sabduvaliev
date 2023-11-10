@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 Ask me about Web Technologies module.
+- 📫 How to reach me: sabduvaliev at wiut.uz
+
 <!--
 **sabduvaliev/sabduvaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
